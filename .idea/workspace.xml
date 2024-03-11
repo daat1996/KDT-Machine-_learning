@@ -1,29 +1,183 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2773be6-efbc-4fff-a427-95b0a4139dd7" name="Changes" comment="" />
+    <list default="true" id="d2773be6-efbc-4fff-a427-95b0a4139dd7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/DAY_0223/class_note_nub" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0223/ex_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0223/ex_class_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0223/ex_find_fish.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0226/KNN_" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0226/Scikit-learn package" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0226/data_set_ready" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0226/ex_find_fish_knn.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0226/ex_find_fish_knn2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0226/ex_find_fish_knn3.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0226/ex_iris_knn.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0226/ex_sampling.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0226/hw_winequality-white_양현우.ver1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0226/mL_machine_learning" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0227/add_wine_plus" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0227/ex_fish_knnRegression.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0227/ex_fish_regression.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0227/hw_diabetes_양현우.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0228/ex_mult_LinearRegression.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0228/ex_outlier.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0228/ex_poly_LinearRegression.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0228/hw_autoMPG.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0229/ex_fish_logisticRegression.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0229/ex_logistic_Regression.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0229/ex_ovr.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0229/hw_BCancer_by_K.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0229/not_fall_sleep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0301/testfor.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0304/ML_test_1st_양현우.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0304/ex_classification_performence.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0304/ex_sgd_regressor.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0304/hw_MNIST_search_양현우.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0305/ex_cv_validation.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0305/ex_fish_ridge_lasso.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0305/ex_kfold.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0305/ex_mnist_classification.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0306/ex_iris_SVC.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0306/ex_iris_SVC2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0306/nonotititle.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0307/ex_LightGBM.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0307/ex_XGBoost(eXtra Gradient Boost).ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0307/ex_cancer_classification.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0307/ex_gbm.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0307/ex_iris_dt.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0307/ex_voting.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0307/for_mushroon.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0307/iris_dt.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0307/iris_dt_model.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0307/iris_dt_model.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0307/use_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/HousingData.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/MushroomDataset/primary_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/MushroomDataset/primary_data_meta.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/MushroomDataset/secondary_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/MushroomDataset/secondary_data_meta.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/auto-mpg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/diabetes.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fish.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/hard0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/hard1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/hard2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/hard3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/hard4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/hard5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/hard6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/hard7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/hard8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/hard9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/activity_labels.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/features.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/features_info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/test/Inertial Signals/body_acc_x_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/test/Inertial Signals/body_acc_y_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/test/Inertial Signals/body_acc_z_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/test/Inertial Signals/body_gyro_x_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/test/Inertial Signals/body_gyro_y_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/test/Inertial Signals/body_gyro_z_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/test/Inertial Signals/total_acc_x_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/test/Inertial Signals/total_acc_y_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/test/Inertial Signals/total_acc_z_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/test/X_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/test/subject_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/test/y_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/train/Inertial Signals/body_acc_x_train.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/train/Inertial Signals/body_acc_y_train.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/train/Inertial Signals/body_acc_z_train.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/train/Inertial Signals/body_gyro_x_train.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/train/Inertial Signals/body_gyro_y_train.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/train/Inertial Signals/body_gyro_z_train.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/train/Inertial Signals/total_acc_x_train.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/train/Inertial Signals/total_acc_y_train.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/train/Inertial Signals/total_acc_z_train.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/train/X_train.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/train/subject_train.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/train/y_train.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/iris.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/iris2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/mushrooms.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/no1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/no2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/no3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/no4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/no5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/no6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/no7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/perch3.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/perch_full.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/test1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/winequality-red.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/winequality-white.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/iris_dt.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAY_0223/check_pk.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAY_0223/check_pk.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2ckGaTGVruZJQsjDkJyC4LcrQOe" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.check_pk.executor": "Run",
+    "Python.ex_class.executor": "Run",
+    "Python.ex_class_02.executor": "Run",
+    "Python.use_model.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/KDP-23/PycharmProjects/KDT5_ML_project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\KDP-23\PycharmProjects\KDT-Machine-_learning\DAY_0307" />
+      <recent name="C:\Users\KDP-23\PycharmProjects\KDT-Machine-_learning\DAY_0306" />
+      <recent name="C:\Users\KDP-23\PycharmProjects\KDT-Machine-_learning\DAY_0226" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\KDP-23\PycharmProjects\KDT-Machine-_learning\DAY_0228" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -39,8 +193,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708648225655</updated>
-      <workItem from="1708648228869" duration="3000" />
+      <workItem from="1708648228869" duration="90893000" />
+      <workItem from="1709106386486" duration="1913000" />
+      <workItem from="1709164214685" duration="84243000" />
+      <workItem from="1709692458239" duration="18584000" />
+      <workItem from="1709773713805" duration="18664000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/KDT_Machine__learning$check_pk.coverage" NAME="check_pk Coverage Results" MODIFIED="1708648596285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DAY_0223" />
+    <SUITE FILE_PATH="coverage/KDT_Machine__learning$use_model.coverage" NAME="use_model Coverage Results" MODIFIED="1709779861501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DAY_0307" />
+    <SUITE FILE_PATH="coverage/KDT_Machine__learning$ex_class.coverage" NAME="ex_class Coverage Results" MODIFIED="1708652457779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DAY_0223" />
+    <SUITE FILE_PATH="coverage/KDT_Machine__learning$ex_class_02.coverage" NAME="ex_class_02 Coverage Results" MODIFIED="1708654704427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DAY_0223" />
   </component>
 </project>
